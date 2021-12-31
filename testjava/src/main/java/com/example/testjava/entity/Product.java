@@ -20,9 +20,6 @@ public class Product {
     @Column(columnName = "price", columnType = SQLDataTypes.DOUBLE)
     private double price;
 
-    public Product(String name, double price, String description) {
-
-    }
 
     public Product(int id, String name, String description, double price) {
         this.id = id;
@@ -31,7 +28,11 @@ public class Product {
         this.price = price;
     }
 
-
+    public Product(String name, double price, String description) {
+        this.name = name;
+        this.price = price;
+        this.description = description;
+    }
 
     @Override
     public String toString() {

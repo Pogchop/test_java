@@ -28,9 +28,11 @@ public class CreateProductServlet extends HttpServlet {
             double price = Double.parseDouble(req.getParameter("price"));
             String description = req.getParameter("description");
             Product product = new Product(name, price, description);
+            System.out.println(product.isValid());
+            System.out.println(product);
             if (product.isValid()){
                 productJpaRepository.save(product);
-                resp.sendRedirect("/admin/product/list");
+                resp.sendRedirect("/admin/product/listphones");
             } else {
                 // trả về chính cái form đó,
                 // kèm theo thông tin lỗi.
