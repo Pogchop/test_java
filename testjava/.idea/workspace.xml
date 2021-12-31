@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52d6e7fa-22e7-4abd-9c7e-797e0dca0c75" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/testjava_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/testjava_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_27.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_reflections_reflections_0_9_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webContexts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/testjava/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/testjava/MainApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/testjava/entity/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/testjava/entity/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/testjava/exception/EntityException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/testjava/exception/EntityException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/testjava/repository/JpaRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/testjava/util/ConnectionHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/testjava/util/ConvertHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/testjava/util/SQLConstant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/testjava/util/SQLDataTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/testjava/util/ValidationUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/include/footer.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/include/header.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/include/left-menu.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/include/script.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/product/addphone.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/product/listphones.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testjava/HelloServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testjava/MainApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testjava/annotation/Column.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testjava/annotation/Entity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testjava/annotation/Id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testjava/controller/CreateProductServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testjava/controller/ListProductServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testjava/entity/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testjava/exception/EntityException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testjava/repository/JpaRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testjava/util/ConnectionHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testjava/util/ConvertHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testjava/util/SQLConstant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testjava/util/SQLDataTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testjava/util/ValidationUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testjava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/testjava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testjava/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="233HCReSH1f8zxSIcuHx5TQkamr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.55" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.55" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="testjava:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/testjava_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="testjava:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52d6e7fa-22e7-4abd-9c7e-797e0dca0c75" name="Changes" comment="" />
+      <created>1640955724511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640955724511</updated>
+      <workItem from="1640955725853" duration="296000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
